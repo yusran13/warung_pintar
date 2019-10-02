@@ -1,10 +1,10 @@
 
 pip install -r requirements.txt
+
 python app.py
 
 
 API ENDPOINT
-
 1. Post a message
 localhost:5000/message [POST]
 body:
